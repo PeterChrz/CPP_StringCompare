@@ -8,14 +8,20 @@ Also when compiling the flag -std=c++11 must be used, as the string std library 
 
 # Included Files
 Length.cpp  - Our length compare function.
+
 Lenth.h     - The header file for our function.
+
 String.cpp  - Our main program, which utilizes the Length.h library.
 
 # Expeected Output
 [admin@TZMP StringCompare]$ ./StringLength 
+
 Who are you?
+
 StampedePress
+
 Hello, StampedePress
+
 "Hello, StampedePress" is 20 characters long.
 
 # How To Compile
